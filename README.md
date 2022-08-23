@@ -1,10 +1,10 @@
 # DB-link
-
-//자바 DB연결
-
-//여기에 DB테이블 생성 쓰기
-
 # jsp파일에 db연결하기
+# DB테이블 생성
+![8](https://user-images.githubusercontent.com/104752580/186090547-191f0123-e910-4374-8a08-9f296e6aed76.JPG)
+# 자바 DB연결
+![9](https://user-images.githubusercontent.com/104752580/186090575-5a74baeb-eddf-444a-aacf-a9041deba32e.JPG)
+### db가 system계정에 연결이 성공했을시에 db test라는 문구가 출력된다.
 # 1. join.jsp
 ![1](https://user-images.githubusercontent.com/104752580/186064466-c9182bee-4cd6-433b-aa94-679dda1e8e53.JPG)
 ### member_tbl_02 테이블에서 custno에 max값을 이용해서 마지막에 있는 값을 출력받고 1을 더해서 자동완성 시켜주는 코드입니다.
